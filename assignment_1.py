@@ -22,7 +22,7 @@ def loop_function(x):
         # Here is an example of a conditional statement
         # If hte remainder of i divided by 2 is 0, then it is an even number
         if i % 2 == 0:
-            print(i, "is even!")
+            print(i, "is even")
         else:
             print(i, "is an odd number!")
 
